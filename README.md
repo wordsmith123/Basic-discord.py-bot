@@ -1,0 +1,2 @@
+A basic bot template created by TheWordSmith#4468. To deploy it, create a file called .env and type the following into it: TOKEN="{bot_token}", substituting bot_token with your bot's token.
+Requires discord.py library, sqlite3, 
